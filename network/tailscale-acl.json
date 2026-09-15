@@ -1,0 +1,9 @@
+{
+	"grants": [
+		{
+			"src": ["autogroup:member"],
+			"dst": ["*"],
+			"ip":  ["*:8200"]
+		}
+	]
+}
