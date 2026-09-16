@@ -10,6 +10,10 @@ This project simulates enterprise security challenges by eliminating standing pr
 - **Just-in-Time & Policy Access:** Enforces read-only capability mapping with automated TTL expiration.
 - **Zero Trust Network (Tailscale):** Implements WireGuard-based mesh overlay with strict endpoint authentication and identity-driven access controls (`autogroup:member`).
 
+  ### Infrastructure Status Validation
+![Vault Operational Matrix](vault-status.png)
+
+
 ## Threat Model Mitigation Matrix
 - **Credential Theft:** Mitigated via dynamic, short-lived tokens.
 - **Lateral Session Movement:** Mitigated via Tailscale zero-trust segmentation policies.
