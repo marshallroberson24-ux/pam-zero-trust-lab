@@ -13,6 +13,9 @@ This project simulates enterprise security challenges by eliminating standing pr
   ### Infrastructure Status Validation
 ![Vault Operational Matrix](vault-status.png)
 
+### Environment Startup Details
+![Vault Startup Overview](vault-startup.png)
+
 
 ## Threat Model Mitigation Matrix
 - **Credential Theft:** Mitigated via dynamic, short-lived tokens.
