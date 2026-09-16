@@ -16,6 +16,9 @@ This project simulates enterprise security challenges by eliminating standing pr
 ### Environment Startup Details
 ![Vault Startup Overview](vault-startup.png)
 
+### Tailscale Secure Mesh Verification
+![Tailscale Network Mesh Fabric](tailscale-mesh.png)
+
 
 ## Threat Model Mitigation Matrix
 - **Credential Theft:** Mitigated via dynamic, short-lived tokens.
